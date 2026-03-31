@@ -17,6 +17,8 @@ Predict construction cost per square meter (USD) for locations across **Japan** 
 - **Tabular**: GDP, distance to capital, infrastructure flags, climate zone, hazard indicators, year/quarter
 - **Sentinel-2 L2A**: 12-band multispectral imagery (quarterly composites)
 - **VIIRS**: Nighttime light radiance
+  
+[For dataset format and for other info's visit](https://solafune.com/competitions/1918ccd7-eb06-4cfc-822f-a9823c63b2c1?menu=about&tab=)
 
 - **evaluation_dataset.zip**
 File type:zipFile count:2049Data description:Evaluation set of tabular data and composite data.
