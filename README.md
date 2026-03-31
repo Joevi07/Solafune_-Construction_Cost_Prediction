@@ -18,6 +18,13 @@ Predict construction cost per square meter (USD) for locations across **Japan** 
 - **Sentinel-2 L2A**: 12-band multispectral imagery (quarterly composites)
 - **VIIRS**: Nighttime light radiance
 
+- **evaluation_dataset.zip**
+File type:zipFile count:2049Data description:Evaluation set of tabular data and composite data.
+- **train_dataset.zip**
+File type:zipFile count:2049Data description:Train set of tabular data and composite data.
+- **sample_submission.csv**
+File type:csvFile count:1Data description:Sample file for submit this is my dataset part actually what you have given is diff
+
 ---
 
 ##  Solution Overview
@@ -72,5 +79,4 @@ Output saved to `outputs/submission.csv`.
 
 ---
 
-## 📄 License
-MIT
+
