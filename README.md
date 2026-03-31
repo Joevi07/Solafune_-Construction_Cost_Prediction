@@ -25,7 +25,7 @@ File type:zipFile count:2049Data description:Train set of tabular data and compo
 - **sample_submission.csv**
 File type:csvFile count:1Data description:Sample file for submit this is my dataset part actually what you have given is diff
 
-![Download datasets from](https://solafune.com/competitions/1918ccd7-eb06-4cfc-822f-a9823c63b2c1?menu=data&tab=)
+[Download datasets from](https://solafune.com/competitions/1918ccd7-eb06-4cfc-822f-a9823c63b2c1?menu=data&tab=)
 ---
 
 ##  Solution Overview
@@ -72,8 +72,8 @@ File type:csvFile count:1Data description:Sample file for submit this is my data
 ```bash
 git clone https://github.com/your-repo
 cd your-repo
-pip install -r requirements.txt
-python solution.py
+Download and extract the datasets required
+python comp_final.py
 ```
 
 Output saved to `outputs/submission.csv`.
