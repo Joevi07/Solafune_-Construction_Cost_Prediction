@@ -1,5 +1,5 @@
 # Solafune_-Construction_Cost_Prediction
-# 🏗️ Construction Cost Per m² Estimation
+# Construction Cost Per m² Estimation
 ### Solafune Competition — Solution
 
 ![Score](https://img.shields.io/badge/Best%20RMSE-0.22129-brightgreen)
